@@ -1,0 +1,33 @@
+# Arquivos de compilação
+*.o
+*.out
+
+# Arquivos de backup
+*~
+
+# Arquivos de log
+*.log
+
+# Diretório de dependências
+vendor/
+
+# Arquivos de configuração sensíveis
+config.ini
+
+# Arquivos de ambiente
+.env
+
+# Diretório de build
+build/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+
+# Arquivos de imagem
+*.png
+*.jpg
+*.gif
+
+# Ignorar a pasta node_modules
+node_modules/
